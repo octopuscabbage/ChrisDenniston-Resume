@@ -1,0 +1,6 @@
+Hello, 
+
+My name is Chris Denniston. I am currently a software engineer at PayIt and a student at the University Of Missouri - Kansas City. I have worked at PayIt for about a year and a half doing backend system development in a fast paced startup. I have also been taking graduate level machine learning courses at my university as an undergraduate. I have taken Neural and Adaptive Systems (A course on neural networks and deep learning),  Introduction to Statistical Learning (A course on general machine learning algorithms such as random forest, SVM, KNN, etc) and an independent study (You can read about the final project of this course in a post on my website, https://octopuscabbage.github.io/machine-learning/2016/07/31/dota-2-data-science.html). I hope this application finds you well. You can also find me on LinkedIn at https://www.linkedin.com/in/chris-denniston-81359a90. 
+
+Thank you,
+Chris Denniston
